@@ -1,1 +1,3 @@
 ja jsem novej soubor
+
+-- ted zkousime push
