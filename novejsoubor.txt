@@ -1,3 +1,4 @@
-Muj novej soubor 
+Muj novej soubor. 
 
 -- ted zkousime staging
+-- Jdu podle cviceni.
