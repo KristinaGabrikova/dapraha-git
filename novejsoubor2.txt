@@ -1,1 +1,3 @@
-druhej soubor je hustej
+Druhej soubor je fakt hustej!
+
+--Zkousime git diff --status
