@@ -1,3 +1,3 @@
-ja jsem novej soubor
+Muj novej soubor 
 
--- ted zkousime push
+-- ted zkousime staging
